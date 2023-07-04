@@ -326,11 +326,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 347902868}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b14993980980315448ee33f958605427, type: 3}
+  m_Script: {fileID: 11500000, guid: 15711d3ecba500d49bb53d0c57cdba99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   groundTile: {fileID: 8624164017344292233, guid: c5197dd9c34e9fa4ebb9579d1eb4cfce, type: 3}
-  nextSpawnPoint: {x: 0, y: 0, z: 0}
 --- !u!4 &347902870
 Transform:
   m_ObjectHideFlags: 0
